@@ -116,7 +116,3 @@ public class StudentManagement {
         studentsByGroup();
     }
 }
-
-
-
-Sua loi lan 1
