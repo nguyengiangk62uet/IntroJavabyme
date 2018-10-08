@@ -1,0 +1,6 @@
+﻿hello	xin chào
+car	ô tô
+phone	điện thoại
+mother	mẹ
+father	bố
+computer	máy tính
