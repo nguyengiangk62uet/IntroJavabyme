@@ -7,7 +7,7 @@ package mahoa;
 
 /**
  *
- * @author DELL
+ * @author Giang Nguyễn
  */
 import java.util.*;
 
